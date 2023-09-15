@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=IBM+Plex+Sans+Thai+Looped&family=IBM+Plex+Sans+Thai:wght@300&family=Noto+Sans+Thai:wght@500&family=Noto+Sans:wght@500&display=swap');
+
+header{
+  margin: 0;
+  padding: 40px;
+  background-color: #1B2631 ;
+  width: 100%;
+  height: 100%;
+  color: white;
+}
+
+body{
+  font-family: 'Bai Jamjuree', sans-serif;
+  background: #D5D8DC;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #34495E;
+  padding: 10px 0;
+  text-align: center;
+}
+
+header p{
+  color: white;
+}
